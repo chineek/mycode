@@ -42,3 +42,6 @@ shopObj.listen("apple", function (brand, model) {
 shopObj.publish("huawei", "P30")
 
 shopObj.publish("apple", "iphone 11")
+
+// 修改了一个文件
+var a = 0;
