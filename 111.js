@@ -40,4 +40,5 @@ shopObj.listen("apple", function (brand, model) {
 })
 //双11 商家发布消息
 shopObj.publish("huawei", "P30")
+
 shopObj.publish("apple", "iphone 11")
