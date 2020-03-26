@@ -42,3 +42,5 @@ shopObj.listen("apple", function (brand, model) {
 shopObj.publish("huawei", "P30")
 
 shopObj.publish("apple", "iphone 11")
+
+// 刻意制造冲突
