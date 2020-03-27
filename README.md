@@ -8,4 +8,4 @@ My code test proj
 
 ## Symbol 操作符及其应用和测试
 
-SymbolTest.js
+Symbol.js
