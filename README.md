@@ -2,12 +2,10 @@
 
 My code test proj
 
-## 添加设计模式
+## Chineek 的前端代码试验场
 
-这个项目我用来测试代码
+这是 Chineek 的前端代码试验场
 
-git 冲突解决
+## Symbol 操作符及其应用和测试
 
-我创建了一个新分支 deve
-
-我再次做了修改
+SymbolTest.js
