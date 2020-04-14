@@ -43,4 +43,4 @@ shopObj.publish("huawei", "P30")
 
 shopObj.publish("apple", "iphone 11")
 
-var a = "我做了很多修改"
+var a = "你做了很多修改"
